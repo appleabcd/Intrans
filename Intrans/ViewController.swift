@@ -15,7 +15,6 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        Label1.text = "Halo dunia!"
         
         
         // Do any additional setup after loading the view, typically from a nib.

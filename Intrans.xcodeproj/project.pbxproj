@@ -25,9 +25,6 @@
 		AE6B71ED1DE22AA000074F64 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE6B71EC1DE22AA000074F64 /* SystemConfiguration.framework */; };
 		AE6B71EF1DE22AAF00074F64 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE6B71EE1DE22AAF00074F64 /* UIKit.framework */; };
 		AE6B71F11DE22AB900074F64 /* Accelerate.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE6B71F01DE22AB900074F64 /* Accelerate.framework */; };
-		AE6B71F31DE22C0300074F64 /* GoogleMapsBase.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE6B71F21DE22C0300074F64 /* GoogleMapsBase.framework */; };
-		AE6B71F51DE22C3C00074F64 /* GoogleMaps.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE6B71F41DE22C3C00074F64 /* GoogleMaps.framework */; };
-		AE6B71F71DE22C5300074F64 /* GoogleMapsCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE6B71F61DE22C5300074F64 /* GoogleMapsCore.framework */; };
 		AE6B72111DE22D5500074F64 /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE6B72041DE22D3C00074F64 /* Alamofire.framework */; };
 		AE6B72121DE22D5500074F64 /* Alamofire.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = AE6B72041DE22D3C00074F64 /* Alamofire.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
@@ -155,9 +152,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AE6B71F71DE22C5300074F64 /* GoogleMapsCore.framework in Frameworks */,
-				AE6B71F51DE22C3C00074F64 /* GoogleMaps.framework in Frameworks */,
-				AE6B71F31DE22C0300074F64 /* GoogleMapsBase.framework in Frameworks */,
 				AE6B71F11DE22AB900074F64 /* Accelerate.framework in Frameworks */,
 				AE6B71EF1DE22AAF00074F64 /* UIKit.framework in Frameworks */,
 				AE6B71ED1DE22AA000074F64 /* SystemConfiguration.framework in Frameworks */,
