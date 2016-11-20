@@ -10,8 +10,14 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var Label1: UILabel!
+    @IBOutlet weak var Image1: UIImageView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
+        Label1.text = "Halo dunia!"
+        
+        
         // Do any additional setup after loading the view, typically from a nib.
     }
 
